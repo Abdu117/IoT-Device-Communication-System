@@ -165,7 +165,7 @@ This document provides instructions for building and running the Unicast and Mul
 ```
 project/
 ├── Application/
-│   ├── Makefile.mk
+│   ├── Makefile
 │   ├── unicast/
 │   │   └── unicast.mk
 │   ├── multicast/
