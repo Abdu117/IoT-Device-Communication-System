@@ -1,4 +1,4 @@
-# IoT Device Communication Project
+# IoT Device Communication System
 
 This project is designed to demonstrate network communication using both **TCP** (Transmission Control Protocol) and **UDP** (User Datagram Protocol) while leveraging **Object-Oriented Programming (OOP)** principles and design patterns to build a flexible and scalable structure. The application supports both **unicast** communication over TCP and **multicast** communication over UDP.
 
